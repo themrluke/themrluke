@@ -146,11 +146,9 @@
 
 <h4 align="center">Profile stats 📈</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=themrluke&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true" alt="themrluke :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=themrluke&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true&rank_icon=github" alt="themrluke :: Profile Stats" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=themrluke&theme=bear&hide_border=true" alt="themrluke :: Streak Stats" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=themrluke)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=themrluke&theme=cobalt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
