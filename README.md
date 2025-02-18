@@ -169,9 +169,6 @@ I am a final year Theoretical Physics MSci student at the [University of Bristol
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=StableDiffusionPUPPI&theme=nord)](https://github.com/themrluke/StableDiffusionPUPPI)
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-
 ---
 
 <!--
