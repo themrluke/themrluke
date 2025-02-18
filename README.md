@@ -13,13 +13,13 @@
   <a href="https://gitlab.cern.ch/ljohnson">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Luke Johnson's GitLab Profile" height="30" width="30">
   </a>
-  
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
+
+  <a href="mailto:themrlukejohnson@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email Luke Johnson" height="30" width="30">
   </a>
-  
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+
+  <a href="mailto:luke.johnson@cern.ch">
+    <img src="https://home.cern/themes/custom/cern/cern_logo.svg" alt="Email Luke Johnson at CERN" height="30" width="30">
   </a>
 </p>
 
