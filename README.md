@@ -19,19 +19,58 @@
   </a>
 
   <a href="mailto:luke.johnson@cern.ch">
-    <img src="https://github.com/themrluke/themrluke/blob/main/CERN_logo.png" alt="Email Luke Johnson at CERN" height="30" width="53">
+    <img src="https://github.com/themrluke/themrluke/blob/main/CERN_logo.png" alt="Email Luke Johnson at CERN" height="30" width="30">
   </a>
   
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">Tools that I use on a daily basis, or that I've used or worked with in the past</p>
+
 <p align="center">
   <a href="https://stackshare.io/anhello/my-personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
 </p>
+
+<p align="center">
+  <!-- Python -->
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/themrluke">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <!-- GitLab -->
+  <a href="https://gitlab.cern.ch/ljohnson">
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  </a>
+
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  </a>
+
+  <!-- Keras -->
+  <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  </a>
+
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  </a>
+</p>
+
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
