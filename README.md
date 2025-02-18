@@ -2,7 +2,7 @@
 
 <h2 align="center">About me</h2>
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me at 📬</h2>
 
 <p align="center">
 
@@ -92,7 +92,7 @@
 
   <!-- Comet -->
   <a href="https://www.comet.com/site/">
-    <img src="https://github.com/themrluke/themrluke/blob/main/Comet_Logo.jpg" alt="Comet" height="28">
+    <img src="https://github.com/themrluke/themrluke/blob/main/Comet_logo.jpg" alt="Comet" height="28">
   </a>
 
   <!-- CUDA -->
@@ -116,9 +116,9 @@
   </a>
 
   <!-- Cython -->
-  <a href="https://developer.nvidia.com/cuda-zone">
-    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
-  </a>
+  <a href="https://cython.org/">
+  <img src="https://img.shields.io/badge/Cython-5A3E85?style=for-the-badge&logo=python&logoColor=white" alt="Cython">
+</a>
 
   <!-- NumPy -->
   <a href="https://numpy.org/">
@@ -127,10 +127,10 @@
 
   <!-- VScode -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://github.com/themrluke/themrluke/blob/main/VScode_logo.png" alt="VS Code" height="28">
+    <img src="https://github.com/themrluke/themrluke/blob/main/visualstudiocode_logo.png" alt="VS Code" height="28">
   </a>
   
-    <!-- LaTeX -->
+  <!-- LaTeX -->
   <a href="https://www.latex-project.org/">
     <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
   </a>
@@ -140,15 +140,11 @@
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Top languages ⌨️</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themrluke&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats 📈</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
