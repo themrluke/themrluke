@@ -19,8 +19,9 @@
   </a>
 
   <a href="mailto:luke.johnson@cern.ch">
-    <img src="https://home.cern/themes/custom/cern/cern_logo.svg" alt="Email Luke Johnson at CERN" height="30" width="30">
+    <img src="https://github.com/themrluke/themrluke/blob/main/CERN_logo.png" alt="Email Luke Johnson at CERN" height="30" width="53">
   </a>
+  
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
