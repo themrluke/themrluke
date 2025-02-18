@@ -146,7 +146,13 @@
 
 <h4 align="center">Profile stats 📈</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=themrluke&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true" alt="themrluke :: Profile Stats" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=themrluke&theme=bear&hide_border=true" alt="themrluke :: Streak Stats" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=themrluke)](https://git.io/streak-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
