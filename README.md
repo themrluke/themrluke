@@ -62,19 +62,10 @@
 
     <!-- HLS4ML -->
   <a href="https://fastmachinelearning.org/hls4ml/">
-    <img src="https://github.com/themrluke/themrluke/blob/main/hls4ml_logo.png"
-alt="HLS4ML" height="28" style="background-color: white; padding: 5px; border-radius: 5px;">
-  </a>
-
-  <a href="https://fastmachinelearning.org/hls4ml/">
-  <div style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
-    <img src="https://raw.githubusercontent.com/themrluke/themrluke/main/hls4ml_logo.png"
-         alt="HLS4ML" height="28">
-  </div>
-</a>
-
-
-
+      <img src="https://github.com/themrluke/themrluke/blob/main/hls4ml_logo_white.jpg"
+  alt="HLS4ML" height="28" style="background-color: white; padding: 5px; border-radius: 5px;">
+    </a>
+    
     <!-- Xilinx Vivado -->
   <a href="https://www.xilinx.com/products/design-tools/vivado.html">
     <img src="https://img.shields.io/badge/Xilinx%20Vivado-AA1C35?style=for-the-badge&logo=xilinx&logoColor=white" alt="Xilinx Vivado">
