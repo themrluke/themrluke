@@ -26,13 +26,7 @@
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked with in the past</p>
-
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
-</p>
+<p align="center">Tools that I frequently use</p>
 
 <p align="center">
   <!-- Python -->
@@ -60,15 +54,14 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   </a>
 
-    <!-- HLS4ML -->
+  <!-- HLS4ML -->
   <a href="https://fastmachinelearning.org/hls4ml/">
-      <img src="https://github.com/themrluke/themrluke/blob/main/hls4ml_logo_white.jpg"
-  alt="HLS4ML" height="28" style="background-color: white; padding: 5px; border-radius: 5px;">
+      <img src="https://github.com/themrluke/themrluke/blob/main/hls4ml_logo_white.jpg" alt="HLS4ML" height="28">
     </a>
     
-    <!-- Xilinx Vivado -->
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html">
-    <img src="https://img.shields.io/badge/Xilinx%20Vivado-AA1C35?style=for-the-badge&logo=xilinx&logoColor=white" alt="Xilinx Vivado">
+  <!-- Xilinx Vivado -->
+  <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado/high-level-design.html">
+    <img src="https://github.com/themrluke/themrluke/blob/main/AMD_Vivado_logo.svg.png" alt="AMD Vivado" height="28">
   </a>
 
   <!-- LaTeX -->
@@ -90,6 +83,17 @@
   <a href="https://pytorch.org/">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   </a>
+
+  <!-- CUDA -->
+  <a href="https://developer.nvidia.com/cuda-zone">
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+  </a>
+
+  <!-- VScode -->
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  </a>
+
 </p>
 
 
