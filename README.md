@@ -62,7 +62,7 @@
 
     <!-- HLS4ML -->
   <a href="https://fastmachinelearning.org/hls4ml/">
-    <img src="https://fastmachinelearning.org/hls4ml/_static/hls4ml_logo_readme.png" alt="HLS4ML" height="28">
+    <img src="https://github.com/themrluke/themrluke/blob/main/hls4ml_logo.png" alt="HLS4ML" height="28">
   </a>
 
 
