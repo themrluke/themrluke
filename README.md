@@ -1,6 +1,13 @@
-## Luke Johnson
+## Hi👋, I am Luke Johnson
 
-<h2 align="center">About me</h2>
+
+I am a final year Theoretical Physics MSci student at the [University of Bristol](https://www.bristol.ac.uk/) with experience in particle physics research and machine learning. I have actively collaborated in international projects while working on new ML techniques for the [CMS L1 Trigger system](https://github.com/themrluke/StableDiffusionPUPPI) and Higgs to invisible analysis at CERN.
+
+- test
+- tst
+- 
+
+<br>
 
 <h2 align="center">You can reach me at 📬</h2>
 
@@ -23,6 +30,8 @@
   </a>
   
 </p>
+
+<br>
 
 <h2 align="center">My stack :man_technologist:</h2>
 
@@ -137,6 +146,7 @@
 
 </p>
 
+<br>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
@@ -146,11 +156,18 @@
 
 <h4 align="center">Profile stats 📈</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=themrluke&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true&rank_icon=github" alt="themrluke :: Profile Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=themrluke&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true&rank_icon=github" width="47%" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=themrluke&theme=cobalt&date_format=j%20M%5B%20Y%5D" width="47%" />
+</p>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=themrluke&theme=cobalt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">My Repos 📕</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=LatticeBoltzmann&theme=nord)](https://github.com/themrluke/LatticeBoltzmann)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=StableDiffusionPUPPI&theme=nord)](https://github.com/themrluke/StableDiffusionPUPPI)
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
