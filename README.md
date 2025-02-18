@@ -62,8 +62,17 @@
 
     <!-- HLS4ML -->
   <a href="https://fastmachinelearning.org/hls4ml/">
-    <img src="https://github.com/themrluke/themrluke/blob/main/hls4ml_logo.png" alt="HLS4ML" height="28">
+    <img src="https://github.com/themrluke/themrluke/blob/main/hls4ml_logo.png"
+alt="HLS4ML" height="28" style="background-color: white; padding: 5px; border-radius: 5px;">
   </a>
+
+  <a href="https://fastmachinelearning.org/hls4ml/">
+  <div style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/themrluke/themrluke/main/hls4ml_logo.png"
+         alt="HLS4ML" height="28">
+  </div>
+</a>
+
 
 
     <!-- Xilinx Vivado -->
