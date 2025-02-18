@@ -29,9 +29,10 @@
 <p align="center">Tools that I frequently use</p>
 
 <p align="center">
+  
   <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
   </a>
 
   <!-- Linux -->
@@ -43,7 +44,6 @@
   <a href="https://learn.microsoft.com/en-us/windows/wsl/">
     <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" alt="WSL2">
   </a>
-
 
   <!-- GitHub -->
   <a href="https://github.com/themrluke">
@@ -72,13 +72,7 @@
 
   <!-- ROOT -->
   <a href="https://root.cern/">
-    <img src="https://img.shields.io/badge/ROOT-3A4D8F?style=for-the-badge&logo=root&logoColor=white" alt="ROOT">
-  </a>
-
-
-  <!-- LaTeX -->
-  <a href="https://www.latex-project.org/">
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+    <img src="https://github.com/themrluke/themrluke/blob/main/ROOT_logo.png" alt="ROOT" height="28">
   </a>
 
   <!-- TensorFlow -->
@@ -96,14 +90,49 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   </a>
 
+  <!-- Comet -->
+  <a href="https://www.comet.com/site/">
+    <img src="https://github.com/themrluke/themrluke/blob/main/Comet_Logo.jpg" alt="Comet" height="28">
+  </a>
+
   <!-- CUDA -->
   <a href="https://developer.nvidia.com/cuda-zone">
     <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
   </a>
 
+  <!-- MPI -->
+  <a href="https://mpi4py.readthedocs.io/">
+    <img src="https://img.shields.io/badge/mpi4py-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" alt="mpi4py">
+  </a>
+
+  <!-- OpenMP -->
+  <a href="https://www.openmp.org/">
+    <img src="https://github.com/themrluke/themrluke/blob/main/OpenMP_logo.png" alt="OpenMP" height="28">
+  </a>
+
+  <!-- Numba -->
+  <a href="https://numba.pydata.org/">
+    <img src="https://github.com/themrluke/themrluke/blob/main/Numba_logo.png" alt="Numba" height="28">
+  </a>
+
+  <!-- Cython -->
+  <a href="https://developer.nvidia.com/cuda-zone">
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+  </a>
+
+  <!-- NumPy -->
+  <a href="https://numpy.org/">
+    <img src="https://github.com/themrluke/themrluke/blob/main/NumPy_logo.png" alt="NumPy" height="28">
+  </a>
+
   <!-- VScode -->
   <a href="https://code.visualstudio.com/">
     <img src="https://github.com/themrluke/themrluke/blob/main/VScode_logo.png" alt="VS Code" height="28">
+  </a>
+  
+    <!-- LaTeX -->
+  <a href="https://www.latex-project.org/">
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
   </a>
 
 </p>
