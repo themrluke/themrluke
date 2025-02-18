@@ -52,7 +52,28 @@
 
   <!-- GitLab -->
   <a href="https://gitlab.cern.ch/ljohnson">
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab">
+  </a>
+
+  <!-- Jupyter -->
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  </a>
+
+    <!-- HLS4ML -->
+  <a href="https://fastmachinelearning.org/hls4ml/">
+    <img src="https://fastmachinelearning.org/hls4ml/_static/hls4ml_logo_readme.png" alt="HLS4ML" height="28">
+  </a>
+
+
+    <!-- Xilinx Vivado -->
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html">
+    <img src="https://img.shields.io/badge/Xilinx%20Vivado-AA1C35?style=for-the-badge&logo=xilinx&logoColor=white" alt="Xilinx Vivado">
+  </a>
+
+  <!-- LaTeX -->
+  <a href="https://www.latex-project.org/">
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
   </a>
 
   <!-- TensorFlow -->
