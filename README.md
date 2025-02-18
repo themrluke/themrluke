@@ -39,6 +39,12 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </a>
 
+  <!-- WSL2 -->
+  <a href="https://learn.microsoft.com/en-us/windows/wsl/">
+    <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" alt="WSL2">
+  </a>
+
+
   <!-- GitHub -->
   <a href="https://github.com/themrluke">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -56,13 +62,19 @@
 
   <!-- HLS4ML -->
   <a href="https://fastmachinelearning.org/hls4ml/">
-      <img src="https://github.com/themrluke/themrluke/blob/main/hls4ml_logo_white.jpg" alt="HLS4ML" height="28">
+      <img src="https://github.com/themrluke/themrluke/blob/main/hls4ml_logo.jpg" alt="HLS4ML" height="28">
     </a>
     
   <!-- Xilinx Vivado -->
   <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado/high-level-design.html">
-    <img src="https://github.com/themrluke/themrluke/blob/main/AMD_Vivado_logo.svg.png" alt="AMD Vivado" height="28">
+    <img src="https://github.com/themrluke/themrluke/blob/main/AMD_Vivado_logo.png" alt="AMD Vivado" height="28">
   </a>
+
+  <!-- ROOT -->
+  <a href="https://root.cern/">
+    <img src="https://img.shields.io/badge/ROOT-3A4D8F?style=for-the-badge&logo=root&logoColor=white" alt="ROOT">
+  </a>
+
 
   <!-- LaTeX -->
   <a href="https://www.latex-project.org/">
@@ -91,7 +103,7 @@
 
   <!-- VScode -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+    <img src="https://github.com/themrluke/themrluke/blob/main/VScode_logo.png" alt="VS Code" height="28">
   </a>
 
 </p>
