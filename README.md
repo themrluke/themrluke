@@ -3,7 +3,7 @@
 - 🎓 I’m a final year **Theoretical Physics MSci** student at the [**University of Bristol**](https://www.bristol.ac.uk/)
 - 🔬 I'm looking to persue a **PhD** in experimental particle physics
 - 📖 My research interests lie in ML, Higgs bosons, tracking algorithms, and detectors
-- 🔭 I’m currently working on CFM and normalizing flow models in the Matrix Element Method to search for $HH \to ZZ^{*} \to 4v$ decays at the LHC
+- 🔭 I’m currently working on CFM and normalizing flow models in the Matrix Element Method to search for ***H → ZZ\* → 4ν*** decays at the LHC
 - 👨‍💻 I completed an internship using [**StableDiffusion**](https://github.com/themrluke/StableDiffusionPUPPI) to denoise pileup in the [CMS L1 Trigger system](https://cms.cern/news/real-time-analysis-cms-level-1-trigger)
 - 💻 I have synthesized models for FPGA deployments via [hls4ml](https://fastmachinelearning.org/hls4ml/)
 - 🔧 I have developed firmware using [AMD Vivado](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html)
@@ -162,7 +162,7 @@
 
 <br>
 
-<h2 align="center">My Repos 📕</h2>
+<h2 align="center">My Main Repos 📕</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/themrluke/LatticeBoltzmann">
@@ -178,15 +178,4 @@
 
 <!--
 **themrluke/themrluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
