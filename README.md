@@ -33,7 +33,7 @@ I am a final year Theoretical Physics MSci student at the [University of Bristol
 
 <br>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="center">⌨️ My stack :man_technologist:</h2>
 
 <p align="center">Tools that I frequently use</p>
 
@@ -148,13 +148,9 @@ I am a final year Theoretical Physics MSci student at the [University of Bristol
 
 <br>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Top languages ⌨️</h4>
+<h2 align="center">📈 Github stats :bar_chart:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themrluke&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-<h4 align="center">Profile stats 📈</h4>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=themrluke&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true&rank_icon=github" width="47%" />
@@ -165,9 +161,28 @@ I am a final year Theoretical Physics MSci student at the [University of Bristol
 
 <h2 align="center">My Repos 📕</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=LatticeBoltzmann&theme=nord)](https://github.com/themrluke/LatticeBoltzmann)
+<div align="center" style="display: flex; justify-content: center; gap: 50px;">
+  <a href="https://github.com/themrluke/LatticeBoltzmann">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=LatticeBoltzmann&theme=nord" />
+  </a>
+  <a href="https://github.com/themrluke/StableDiffusionPUPPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=StableDiffusionPUPPI&theme=nord" />
+  </a>
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=StableDiffusionPUPPI&theme=nord)](https://github.com/themrluke/StableDiffusionPUPPI)
+
+<h2 align="center">My Repos 📕</h2>
+
+<div align="center">
+  <a href="https://github.com/themrluke/LatticeBoltzmann">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=LatticeBoltzmann&theme=nord" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds spacing -->
+  <a href="https://github.com/themrluke/StableDiffusionPUPPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=StableDiffusionPUPPI&theme=nord" />
+  </a>
+</div>
+
 
 ---
 
