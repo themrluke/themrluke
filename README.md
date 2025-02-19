@@ -1,11 +1,14 @@
 ## Hi👋, I am Luke Johnson
 
-
-I am a final year Theoretical Physics MSci student at the [University of Bristol](https://www.bristol.ac.uk/) with experience in particle physics research and machine learning. I have actively collaborated in international projects while working on new ML techniques for the [CMS L1 Trigger system](https://github.com/themrluke/StableDiffusionPUPPI) and Higgs to invisible analysis at CERN.
-
-- test
-- tst
-- 
+- 🎓 I’m a final year Theoretical Physics MSci student at the [University of Bristol](https://www.bristol.ac.uk/)
+- 🔬 I'm looking to persue a PhD in experimental particle physics
+- 📖 My research interests lie in ML, Higgs bosons, tracking algorithms, and detectors
+- 🔭 I’m currently working on CFM and normalizing flow models in the Matrix Element Method to search for $HH \to ZZ^{*} \to 4v$ decays at the LHC.
+- 👨‍💻 I completed an internship using StableDiffusion to denoise pileup in the [CMS L1 Trigger system](https://github.com/themrluke/StableDiffusionPUPPI)
+- 💻 I have synthesized models for FPGA deployments via [hls4ml](https://fastmachinelearning.org/hls4ml/)
+- 🔧 I have developed firmware using [AMD Vivado](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html)
+- 🤝 I have collaborated with the [CMS Collaboration](https://cms.cern/), [CERN](https://home.cern/), [University of Bristol](https://www.bristol.ac.uk/), and [ETH Zurich](https://ethz.ch/en.html)
+- 🌱 I have built: CNNs (UNet architecture), cINNs, CFMs, normalizing flows, Transformers
 
 <br>
 
@@ -161,23 +164,10 @@ I am a final year Theoretical Physics MSci student at the [University of Bristol
 
 <h2 align="center">My Repos 📕</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 50px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/themrluke/LatticeBoltzmann">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=LatticeBoltzmann&theme=nord" />
   </a>
-  <a href="https://github.com/themrluke/StableDiffusionPUPPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=StableDiffusionPUPPI&theme=nord" />
-  </a>
-</div>
-
-
-<h2 align="center">My Repos 📕</h2>
-
-<div align="center">
-  <a href="https://github.com/themrluke/LatticeBoltzmann">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=LatticeBoltzmann&theme=nord" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds spacing -->
   <a href="https://github.com/themrluke/StableDiffusionPUPPI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=StableDiffusionPUPPI&theme=nord" />
   </a>
