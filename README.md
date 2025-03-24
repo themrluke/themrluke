@@ -164,12 +164,15 @@
 
 <h2 align="center">My Main Repos 📕</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, auto); gap: 20px; justify-content: center;">
   <a href="https://github.com/themrluke/LatticeBoltzmann">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=LatticeBoltzmann&theme=nord" />
   </a>
   <a href="https://github.com/themrluke/StableDiffusionPUPPI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=StableDiffusionPUPPI&theme=nord" />
+  </a>
+  <a href="https://github.com/themrluke/memflow-msci-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=themrluke&repo=memflow-msci-project&theme=nord" />
   </a>
 </div>
 
