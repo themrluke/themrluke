@@ -1,14 +1,13 @@
 ## Hi👋, I am Luke Johnson
 
-- 🎓 I’m a final year **Theoretical Physics MSci** student at the [**University of Bristol**](https://www.bristol.ac.uk/)
-- 🔬 I'm looking to pursue a **PhD** in experimental particle physics
-- 📖 My research interests lie in ML, Higgs bosons, tracking algorithms, and detectors
-- 🔭 I’m currently working on CFM and normalizing flow models in the Matrix Element Method to search for ***H → ZZ\* → 4ν*** decays at the LHC
-- 👨‍💻 I completed an internship using [**StableDiffusion**](https://github.com/themrluke/StableDiffusionPUPPI) to denoise pileup in the [CMS L1 Trigger system](https://cms.cern/news/real-time-analysis-cms-level-1-trigger)
+- 🎓 **Theoretical Physics MSci** graduate from the [**University of Bristol**](https://www.bristol.ac.uk/) *(2025)*
+- 📜 I am pursuing a particle physics **PhD** at the [**UCL Centre for Data Intensive Science and Industry**](https://www.ucl.ac.uk/data-intensive-science-industry)
+- ⚛ My Master's research project focussed on building CFM, normalizing flow, and Transformer models in the Matrix Element Method to search for ***H → ZZ\* → 4ν*** decays at the LHC
+- 👨‍💻 I completed an internship using [**StableDiffusion**](https://github.com/themrluke/StableDiffusionPUPPI) to denoise pileup in the [CMS L1 Trigger](https://cms.cern/news/real-time-analysis-cms-level-1-trigger)
 - 💻 I have synthesized models for FPGA deployment via [hls4ml](https://fastmachinelearning.org/hls4ml/)
 - 🔧 I have developed FPGA firmware using [AMD Vivado](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html)
 - 🤝 I have collaborated with the [CMS Collaboration](https://cms.cern/), [CERN](https://home.cern/), [University of Bristol](https://www.bristol.ac.uk/), and [ETH Zurich](https://ethz.ch/en.html)
-- 🌱 My models include: **CNNs** (UNet architecture), **cINNs**, **CFMs**, **normalizing flows**, **Transformers**
+- 🧠 My models include: **CNNs** (UNet), **cINNs**, **CFMs**, **normalizing flows**, **Transformers**
 
 <br>
 
