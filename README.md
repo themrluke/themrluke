@@ -4,7 +4,7 @@
 - 🥊 Building computer vision models with [**Sports Wellbeing Analytics**](https://swa.one/) in partnership with the [**International Olympic Committee**](https://www.olympics.com/ioc) to predict punches in boxing matches
 - ⚛️ Working on paticle tracking algorithms with the [**ATLAS Collaboration**](https://atlas.cern/about) at [**CERN**](https://home.cern/)
 - 🎓 **Theoretical Physics MSci** graduate from the [**University of Bristol**](https://www.bristol.ac.uk/) with **_1st Class Honours_** *(2025)*
-- ⚛ Master's research project on building CFM, normalizing flow, and Transformer models in the Matrix Element Method to search for ***H → ZZ\* → 4ν*** decays at the LHC
+- ✨ Master's research project on building CFM, normalizing flow, and Transformer models in the Matrix Element Method to search for ***H → ZZ\* → 4ν*** decays at the LHC
 - 👨‍💻 I completed an internship using [**StableDiffusion**](https://github.com/themrluke/StableDiffusionPUPPI) to denoise pileup in the [CMS L1 Trigger](https://cms.cern/news/real-time-analysis-cms-level-1-trigger)
 - 💻 I have synthesized models for FPGA deployment via [hls4ml](https://fastmachinelearning.org/hls4ml/)
 - 🔧 I have developed FPGA firmware using [AMD Vivado](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html)
